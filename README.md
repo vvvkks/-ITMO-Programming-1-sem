@@ -1,5 +1,6 @@
 ITMO-Programming-1-sem
 Laboratory works on the subject "Programming (C language)" at ITMO
+
 lab_1.c - Разработка консольного приложения
 Lab_2.c - Расчёт значения функции в заданной точке
 Lab_3.c - Представление чисел в различных системах счисления и битовые операции
