@@ -1,14 +1,15 @@
-ITMO-Programming-1-sem
+# ITMO-Programming-1-sem
+
 Laboratory works on the subject "Programming (C language)" at ITMO
 
-lab_1.c - Разработка консольного приложения
-Lab_2.c - Расчёт значения функции в заданной точке
-Lab_3.c - Представление чисел в различных системах счисления и битовые операции
-Lab_4.c - Логические операции 
-Lab_5.c - Массивы
-Lab_6.c - Указатели и динамическая память 
-Lab_7.c - Типы данных, определяемые пользователем
-Lab_8.c - Работа со строками
-Lab_9.c - Циклы и ветвления
-Lab_10.c - Функции
-Lab_11.c - Использование заголовочных файлов
+- [Lab1 - Разработка консольного приложения](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/ae713319f7b9585044ea3706af57886ecfcab60d/lab_1.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab2 - Расчёт значения функции в заданной точке](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_2.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab3 - Представление чисел в различных системах счисления и битовые операции](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_3.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab4 - Логические операции](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_4.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab5 - Массивы](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_5.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab6 - Указатели и динамическая память](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_6.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab7 - Типы данных, определяемые пользователем](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_7.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab8 - Работа со строками](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_8.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab9 - Циклы и ветвления](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_9.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab10 - Функции](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_10.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
+- [Lab11 - Использование заголовочных файлов](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/lab_11.c) ([задание](https://github.com/vvvkks/-ITMO-Programming-1-sem/blob/48eefc0e012767133aa40b71bd922255e03abd27/%D0%A1%20-%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%B8%20%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B8%202021.zip))
